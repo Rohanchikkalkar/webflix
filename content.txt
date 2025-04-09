@@ -1,1 +1,5 @@
-# content
+# contents
+
+titles.txt : the movie title in webflyx connection
+classsic.csv : a comma seperated list of classic movies
+quotes.txt : a directory of files containing memorable quotes from the movies
