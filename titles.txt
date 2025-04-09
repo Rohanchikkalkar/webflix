@@ -5,3 +5,4 @@ Titles:
 3. 1984
 4. The Catcher in the Rye
 5. Pride and Prejudice
+6. The Lord of the Rings
