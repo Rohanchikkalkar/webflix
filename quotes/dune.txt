@@ -4,3 +4,4 @@ Dune dialogues
 // 2. "The mind commands the body and it obeys. The mind orders itself and meets resistance."
 // 3. "The person who experiences greatness must have a large dose of personal humility and a lot of self-control."     
 // 4. "The beginning of knowledge is the discovery of something we do not understand."
+5. the spice must flow
